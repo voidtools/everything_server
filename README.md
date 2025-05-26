@@ -4,7 +4,7 @@ Allow users to access your index from Everything.
 
 ![image](https://github.com/user-attachments/assets/73b553ba-c47f-40ee-a525-3d14c59cd98b)
 
-Requires a [site license](https://www.voidtools.com/enterprise).
+Requires a [site license](https://www.voidtools.com/enterprise) for Enterprise and Business Use.
 
 [Everything Server Download](https://www.voidtools.com/forum/viewtopic.php?p=35401#everythingserver)
 <br/>
