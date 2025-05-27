@@ -13,5 +13,5 @@ See also
 --------
 
 *   [Everything Server](https://www.voidtools.com/forum/viewtopic.php?f=12&t=9794)
-*   [Everything 1.5 Plugins - Everything Server](https://www.voidtools.com/forum/viewtopic.php?p=35401#http)
+*   [Everything 1.5 Plugins - Everything Server](https://www.voidtools.com/forum/viewtopic.php?p=35401#everythingserver)
 *   [Everything 1.5 Plugin SDK](https://www.voidtools.com/forum/viewtopic.php?t=16535)
