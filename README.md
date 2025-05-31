@@ -9,7 +9,7 @@ The Everything Server allows you to:
 
 The Everything Server replaces the [ETP/FTP Server](https://github.com/voidtools/etp_server)
 
-Hosting an Everything Server in a business or enterprise environment requires a [Site License](https://www.voidtools.com/enterprise).
+Hosting an Everything Server in a business or enterprise environment requires a [Site License](https://www.voidtools.com/enterprise).<br/>
 A Site License is not required for personal use.
 
 [Download](#download)<br/>
