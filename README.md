@@ -35,6 +35,39 @@ Everything Server Options:
 
 
 
+Plug-in Installation
+--------------------
+
+To install a plug-in:
+
+*   [Download a plug-in installer](#Download).
+*   **Run** the plug-in installer.
+*   Click **Add**.
+
+\-or-  
+  
+To manually install a plug-in:
+
+*   [Download a plug-in zip](#Download) and extract the plug-in dll to your Desktop.
+*   Move the extracted plug-in dll to C:\\Program Files\\Everything\\plugins  
+    where C:\\Program Files\\Everything is your Everything installation folder.
+*   In **Everything**, from the **File** menu, click **Exit**.
+*   **Restart Everything**.
+<br/><br/><br/>
+
+
+
+Plug-in Setup  
+-------------
+
+To manage your plug-ins:
+
+*   In **Everything**, from the **Tools** menu, click **Options**.
+*   Click the **Plug-ins** tab on the left.
+<br/><br/><br/>
+
+
+
 See also
 --------
 
